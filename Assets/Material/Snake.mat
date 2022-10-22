@@ -39,8 +39,13 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
+<<<<<<< Updated upstream
     - _Color_Bottom: {r: 0, g: 0.8581557, b: 1, a: 0}
     - _Color_Top: {r: 0, g: 1, b: 0.4397905, a: 0}
+=======
+    - _Color_Bottom: {r: 0.29383236, g: 0.8773585, b: 0.5033082, a: 0}
+    - _Color_Top: {r: 0.21537916, g: 0.8301887, b: 0.8056126, a: 0}
+>>>>>>> Stashed changes
   m_BuildTextureStacks: []
 --- !u!114 &7435567232513861871
 MonoBehaviour:
